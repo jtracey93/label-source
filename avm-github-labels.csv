@@ -1,4 +1,4 @@
-Name,Description,HEX,Color Sample
+Name,Description,Color,Color Sample
 Needs: Attention :wave:,"Reply has been added to issue, maintainer to review",E99695,Picture
 Needs: Author Feedback :ear:,Awaiting feedback from the issue/PR author,F18A07,Picture
 Needs: External Changes :hammer_and_pick:,When an issue/PR requires changes that are outside of the control of the module. E.g. an RP change or language feature add,DE389D,Picture
