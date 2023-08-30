@@ -1,12 +1,12 @@
 Name,Description,Color,Color Sample
 Needs: Attention :wave:,"Reply has been added to issue, maintainer to review",E99695,Picture
 Needs: Author Feedback :ear:,Awaiting feedback from the issue/PR author,F18A07,Picture
-Needs: External Changes :hammer_and_pick:,When an issue/PR requires changes that are outside of the control of the module. E.g. an RP change or language feature add,DE389D,Picture
+Needs: Ext. Changes :hammer_and_pick:,When an issue/PR requires changes that are outside of the control of the module. E.g. an RP change or language feature add,DE389D,Picture
 Needs: More Evidence :balance_scale:,We are looking for more evidence to make a decision on this,F64872,Picture
 Needs: Triage :mag:,Maintainers need to triage still,FBCA04,Picture
 Status: Awaiting Release To Be Cut :scissors:,"This is fixed in the main branch but not in the latest release, will be fixed with next release cut",800080,Picture
 Status: Do Not Merge :no_entry:,Do not merge PRs with this label attached as they are not ready or aligned to future direction etc.,8b4513,Picture
-Status: External Community Contribution :earth_africa:,This is being worked on by someone outside of the owners/contributors or core team,D8FA2C,Picture
+Status: Ext. Contribution :earth_africa:,This is being worked on by someone outside of the owners/contributors or core team,D8FA2C,Picture
 Status: Fixed :white_check_mark:,Auto label applied when issue fixed by merged PR,90ee90,Picture
 Status: Help Wanted :sos:,Extra attention is needed,ff4500,Picture
 Status: In PR :point_right:,This is when an issue is due to be fixed in an open PR,ededed,Picture
